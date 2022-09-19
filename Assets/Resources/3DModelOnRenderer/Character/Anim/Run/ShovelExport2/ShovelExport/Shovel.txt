@@ -1,0 +1,5 @@
+Shovel:
+
+Fr 05 - 45 : walk1
+Fr 50 - 90 : idle
+Fr 95 - 135 : walk2
